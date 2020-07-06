@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Scheduler</string>
+    <string name="login_title">Login</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_go">Entrar!</string>
+</resources>
